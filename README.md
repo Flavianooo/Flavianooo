@@ -18,7 +18,7 @@ Coding since 2018, self taught developer. Full stack on web development, mostly 
 
 |           Project Name           | Technologies                                                                                                        |        Status       | Active Accounts
 |:--------------------------------:|-------------------------------------------------------------------------------------------------------------------------|:-------------------:|:--------------------------------:|
-|           <a href="https://www.vice-rp.com/" target="_blank">Vice Roleplay(SA:MP)</a>          | - Pawn<br>- PHP<br>- HTML/CSS<br>- Bootstrap<br>                                                                      | Active ✅ | 27000+
+|           <a href="https://www.vice-rp.com/" target="_blank">Vice Roleplay(SA:MP)</a>          | - Pawn<br>- PHP<br>- HTML/CSS<br>- Bootstrap<br>                                                                      | Active ✅ | 31300+
 |           Vice Online (GTA:V)          | - Javascript/Typescript<br>- MongoDB<br>- VueJS<br>- HTML/CSS<br>- Bootstrap                                 |      Still on Progress ⚠️  |     
 
 ## **Links**
