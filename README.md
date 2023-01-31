@@ -8,11 +8,13 @@ Coding since 2018, self taught developer. Full stack on web development, mostly 
 * Typescript
 * Javascript
 * NodeJS
-* NoSQL/SQL Database
+* NoSQL/SQL Databases(MySQL, SQLite, MongoDB)
 * Vue3
 * Linux System Administration
 * Pawn
 * HTML/CSS
+* PHP
+* C#
 
 ## **Projects**
 
