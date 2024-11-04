@@ -1,41 +1,23 @@
-# Flaviano
-### Efe Tacirlioglu
+# Efe Tacirlioglu (*a.k.a.* Flaviano)
 
-Coding since 2018, self taught developer. Full stack on web development, mostly working on back-end. 3+ years experienced at GTA Multiplayer Modifications. Head Developer in Vice Multiplayer.
+Full Stack Developer, coding and managing products since 2018. 5+ years of game and web development experience.
 
-<a target="_blank" href="https://www.buymeacoffee.com/efetacirlioglu"><img src="https://www.upload.ee/image/14907815/blue-button.webp" alt="Buy me a coffee!" style="height: 45px !important;width: 180px;" ></a>
+Currently working as the Head Developer and Co-Founder at Vice Multiplayer, overseeing all game and web development.
 
-## **Skillset**
+## Languages
+JavaScript, TypeScript, Pawn, C#, PHP, HTML & CSS
 
-* Typescript
-* Javascript
-* NodeJS
-* NoSQL/SQL Databases(MySQL, SQLite, MongoDB)
-* VueJS
-* ReactJS
-* NextJS
-* Linux System Administration
-* Pawn
-* HTML/CSS
-* PHP
-* C#
+## Frameworks
+Vue, Tailwind CSS, REST, React, Next.js
+
+## Misc.
+MySQL, MongoDB, Node.js, Docker, Git
 
 ## **Projects**
 
 |           Project Name           | Technologies                                                                                                        |        Status       | Active Accounts
 |:--------------------------------:|-------------------------------------------------------------------------------------------------------------------------|:-------------------:|:--------------------------------:|
-|           <a href="https://www.vice-rp.com/" target="_blank">Vice Roleplay(SA:MP)</a>          | - Pawn<br>- PHP<br>- HTML/CSS<br>- Bootstrap<br>                                                                      | Active ✅ | 31300+
-|           Vice Online (GTA:V)          | - Javascript/Typescript<br>- MongoDB<br>- VueJS<br>- HTML/CSS<br>- Bootstrap                                 |      Still on Progress ⚠️  |     
-
-## **Links**
-
-<a href="https://www.linkedin.com/in/efe-tacirlio%C4%9Flu-29b66a1b5/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="efetacirlioglu" height="30" width="40" /></a>
-<a href="https://instagram.com/efetacirliogluu" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="efetacirliogluu" height="30" width="40" /></a>
-<a href="https://discord.gg/viceroleplay" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="viceroleplay" height="30" width="40" /></a>
-
-<div style="display:flex;flex-direction:row;">
-<img width="47%" src="https://wakatime.com/share/@2afdf49c-4985-40de-98dd-25662b2d66c0/3d404966-c12e-4211-848b-b1a5b2f584d7.svg"/>
-<img width="47%" src="https://wakatime.com/share/@2afdf49c-4985-40de-98dd-25662b2d66c0/403df778-1fe2-40b7-930a-77183e4a8cf0.svg"/>
-</div>
+|           <a href="https://www.vice-rp.com/" target="_blank">Vice Roleplay(SA:MP)</a>          | - Pawn<br>- PHP<br>- HTML/CSS<br>- Bootstrap<br>                                                                      | Active ✅ | 40600+
+|           <a href="https://www.vice-online.com/" target="_blank">Vice Online (GTA:V)</a>          | - Javascript (TS)<br>- C#<br>- MySQL<br>- PostgreSQL<br>- VueJS<br>- PHP<br>- Bootstrap                                 |      Active ✅ | 5700+     
 
 ![](https://komarev.com/ghpvc/?username=Flavianooo)
